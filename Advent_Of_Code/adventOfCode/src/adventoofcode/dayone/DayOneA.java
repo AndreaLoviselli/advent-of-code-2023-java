@@ -26,7 +26,7 @@ public class DayOneA {
 
     public static void main(String[] args) {
 
-        String filePath = "/home/andre/Desktop/Advent_Of_Code/adventOfCode/adventofcode.com_2023_day_1_input.txt";
+        String filePath = "/home/andre/Desktop/advent_of_code/advent-of-code-2023-java/Advent_Of_Code/adventOfCode/adventofcode.com_2023_day_1_input.txt";
 
         ArrayList<String> linesFromFile = new ArrayList<>(1000);
         ArrayList<Integer> numbersFromLines = new ArrayList<>(1000);
